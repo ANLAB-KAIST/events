@@ -1,0 +1,36 @@
+.header{font-family:Verdana; font-size:23; font-weight:bold; color:#004000}
+.subheader{font-family:Verdana; font-size:20;font-weight:bold; color:#800000}
+#.maintext{font-family:Verdana; font-size:18}
+.maintext{font-family:Verdana, Arial; font-size:11pt}
+.subheader2{font-family:Verdana; font-size:17;font-weight:bold; color:#800000}
+.subheader3{font-family:Verdana; font-size:22;font-weight:bold; color:#800000}
+.topmenu{
+	float: left;
+	background-color: white;
+	margin-left: 0px;
+	margin-bottom: 30px;
+}
+.horizontalmenu {
+	margin-left: 0px;
+		margin-top: 0px;
+			float: left;
+				list-style: none;
+					background-color: #800000;
+						width: 780px;
+}
+
+.horizontalmenu li {
+		float:left;
+			margin-left: 6px;
+				font-family:Verdana; font-size:12; 
+				padding: 5px;
+}
+
+.horizontalmenu li a {
+		text-decoration: none;
+			color:white;
+}
+
+.horizontalmenu li a:hover {
+		border-top: 5px solid white;
+}
